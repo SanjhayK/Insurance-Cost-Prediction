@@ -31,7 +31,7 @@ The dataset used contains demographic and health-related features of individuals
 - `Insurance_Cost_Prediction_Analysis.ipynb` – the full notebook with analysis and model training.
 
 ## Results:
-Ridge and Linear Regression both performed similarly (MAE ≈ $28,500), while Random Forest captured more complex patterns but had slightly higher error (MAE ≈ $36,900).
+- Ridge and Linear Regression both performed similarly (MAE ≈ $28,500), while Random Forest captured more complex patterns but had slightly higher error (MAE ≈ $36,900).
 ---
 
 Feel free to fork this repository or use it as a starter for deeper insurance pricing analysis.
