@@ -1,6 +1,6 @@
 # Insurance Cost Prediction Using Machine Learning
 
-This project predicts individual medical insurance charges based on features like age, BMI, region, and smoking status. It uses regression models including:
+This project predicts individual medical insurance charges based on features like age, BMI, region, and smoking status. To do so, it uses the following regression models:
 
 - Linear Regression
 - Ridge Regression
@@ -8,7 +8,7 @@ This project predicts individual medical insurance charges based on features lik
 
 ## What’s Inside
 
-- Exploratory data analysis and visualizations (e.g. age, BMI, smoker distribution)
+- Data analysis and visualizations (e.g. age, BMI, smoker distribution)
 - Manual encoding of categorical features
 - Model training and evaluation using MAE, RMSE, and R²
 - Feature importance analysis with Random Forest
